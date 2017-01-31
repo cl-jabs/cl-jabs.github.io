@@ -1,4 +1,7 @@
 # Build settings
+title: [The title of your site]
+description: [A short description of your site's purpose]
+
 markdown: kramdown
 markdown_ext: md
 fenced_code_blocks: true
