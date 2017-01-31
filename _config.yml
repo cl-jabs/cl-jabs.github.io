@@ -1,11 +1,14 @@
 # Build settings
-title: (Just (Another (Build (System :for "Common Lisp"))))
-description: NOT ONLY! A Build System
+title: (Just<br />&nbsp&nbsp(Another<br />&nbsp&nbsp&nbsp&nbsp(Build<br />&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp(System :for "Common Lisp"))))
+description: NOT ONLY! Just A Build System
 
 markdown: kramdown
 markdown_ext: md
 fenced_code_blocks: true
 theme: jekyll-theme-slate
+site:
+  github:
+    repository_name: https://github.com/cl-jabs/cl-jabs
 gems:
   - jekyll-feed
 exclude:
