@@ -1,6 +1,6 @@
 # Build settings
-title: [The title of your site]
-description: [A short description of your site's purpose]
+title: (Just (Another (Build (System :for "Common Lisp"))))
+description: NOT ONLY! A Build System
 
 markdown: kramdown
 markdown_ext: md
